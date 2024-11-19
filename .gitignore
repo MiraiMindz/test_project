@@ -1,0 +1,5 @@
+# Global Git Ignore
+
+# Zig Git Ignores
+Zig/zig-out/
+Zig/.zig-cache/

@@ -1,0 +1,4 @@
+# Local Zig Git Ignore
+
+zig-out/
+.zig-cache/
